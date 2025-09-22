@@ -31,3 +31,35 @@ A simple **Python-based calculator** that performs basic arithmetic operations: 
 
 ```bash
 git clone https://github.com/Deeksha-Sharma-906/Python_Calculator
+```
+
+
+# Python Calculator: Setup & Shortcut Guide
+## Step 1: Install Python
+
+Make sure Python 3.x is installed on your system.  
+- Download: [Python.org](https://www.python.org/downloads/)  
+- Verify installation:
+
+```bash
+python --version
+```
+
+## Step 2: Save the Calculator Code
+
+1. Open any text editor (VS Code, Notepad, etc.)
+2. Copy the calculator code
+3. Save the file as calculator.py in your preferred folder.
+
+## Step 3: Run the Calculator
+
+Open terminal or command prompt, navigate to the folder, and run: 
+<br>python calculator.py
+
+## Step 4: Create a Shortcut
+
+<br>1.Right-click on Desktop → New → Shortcut
+<br>2. Enter the target path: C:\Python39\python.exe "C:\path\to\calculator.py"
+<br>3. Click Next, give it a name (e.g., Python Calculator), and Finish
+<br>4. Double-click the shortcut anytime to launch your calculator instantly
+
